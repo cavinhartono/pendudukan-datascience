@@ -1,0 +1,63 @@
+No,NIK,Nama,Jenis Kelamin,Usia,Status Perkawinan,Pendidikan,Pekerjaan
+1,320101010001,Andi,Laki-laki,45,Menikah,S1,Petani
+2,320101010002,Budi,Laki-laki,30,Belum Menikah,SMA,Buruh
+3,320101010003,Citra,Perempuan,28,Menikah,D3,Guru
+4,320101010004,Dodi,Laki-laki,60,Menikah,SD,Petani
+5,320101010005,Evi,Perempuan,35,Menikah,SMA,Ibu Rumah Tangga
+6,320101010006,Fajar,Laki-laki,50,Menikah,SMP,Pedagang
+7,320101010007,Gita,Perempuan,24,Belum Menikah,S1,Pegawai Negeri
+8,320101010008,Hadi,Laki-laki,29,Menikah,D3,Teknisi
+9,320101010009,Indah,Perempuan,40,Menikah,SMP,Petani
+10,320101010010,Joko,Laki-laki,55,Menikah,SMA,Karyawan Swasta
+11,320101010011,Kiki,Perempuan,32,Menikah,S1,Dokter
+12,320101010012,Lila,Perempuan,26,Belum Menikah,S1,Perawat
+13,320101010013,Miko,Laki-laki,33,Menikah,SMA,Supir
+14,320101010014,Nanda,Perempuan,22,Belum Menikah,SMA,Mahasiswa
+15,320101010015,Odi,Laki-laki,35,Menikah,S1,Pengusaha
+16,320101010016,Poppy,Perempuan,44,Menikah,SMA,Ibu Rumah Tangga
+17,320101010017,Qori,Laki-laki,23,Belum Menikah,D3,Teknisi
+18,320101010018,Rina,Perempuan,50,Menikah,SMP,Petani
+19,320101010019,Sinta,Perempuan,38,Menikah,SMA,Guru
+20,320101010020,Toni,Laki-laki,29,Menikah,S1,Pegawai Swasta
+21,320101010021,Udin,Laki-laki,47,Menikah,SD,Petani
+22,320101010022,Vera,Perempuan,34,Menikah,D3,Bidan
+23,320101010023,Wahyu,Laki-laki,52,Menikah,SMA,Pedagang
+24,320101010024,Xena,Perempuan,27,Menikah,SMA,Ibu Rumah Tangga
+25,320101010025,Yoga,Laki-laki,31,Menikah,D3,Mekanik
+26,320101010026,Zaki,Laki-laki,67,Menikah,SD,Petani
+27,320101010027,Agus,Laki-laki,36,Menikah,SMP,Buruh
+28,320101010028,Betty,Perempuan,43,Menikah,SMA,Pedagang
+29,320101010029,Caca,Perempuan,22,Belum Menikah,SMA,Mahasiswa
+30,320101010030,Dani,Laki-laki,41,Menikah,SMA,Karyawan Swasta
+31,320101010031,Eko,Laki-laki,28,Menikah,S1,Pengusaha
+32,320101010032,Fitri,Perempuan,37,Menikah,D3,Bidan
+33,320101010033,Gunawan,Laki-laki,54,Menikah,SMP,Petani
+34,320101010034,Heni,Perempuan,45,Menikah,SMA,Ibu Rumah Tangga
+35,320101010035,Irwan,Laki-laki,60,Menikah,SD,Petani
+36,320101010036,Jaka,Laki-laki,32,Belum Menikah,S1,Karyawan Swasta
+37,320101010037,Karina,Perempuan,21,Menikah,SMA,Mahasiswa
+38,320101010038,Lintang,Perempuan,33,Menikah,D3,Teknisi
+39,320101010039,Maya,Laki-laki,40,Menikah,SMA,Pedagang
+40,320101010040,Nino,Laki-laki,53,Menikah,SD,Buruh
+41,320101010041,Oka,Perempuan,48,Belum Menikah,SMA,Pegawai Negeri
+42,320101010042,Putri,Laki-laki,25,Menikah,S1,Dokter
+43,320101010043,Rizky,Perempuan,30,Menikah,D3,Guru
+44,320101010044,Sari,Laki-laki,27,Menikah,SMA,Bidan
+45,320101010045,Tio,Perempuan,69,Menikah,SMA,Karyawan Swasta
+46,320101010046,Umi,Laki-laki,50,Menikah,SD,Ibu Rumah Tangga
+47,320101010047,Vino,Perempuan,39,Menikah,SMA,Pedagang
+48,320101010048,Wati,Laki-laki,35,Menikah,SMP,Ibu Rumah Tangga
+49,320101010049,Yanto,Laki-laki,66,Menikah,SD,Petani
+50,320101010050,Zulaika,Perempuan,24,Belum Menikah,D3,Perawat
+51,320101010051,Budi,Laki-laki,44,Menikah,S1,Karyawan Swasta
+52,320101010052,Rahadian,Laki-laki,68,Menikah,SMA,Karyawan Swasta
+53,320101010053,Hadi,Laki-laki,14,Belum Menikah,SD,Mahasiswa
+54,320101010054,Raihan,Laki-laki,70,Menikah,SMA,Petani
+55,320101010055,Lusi,Perempuan,13,Belum Menikah,SD,Mahasiswa
+56,320101010056,Putri,Perempuan,46,Menikah,SMA,Karyawan Swasta
+57,320101010057,Putra,Laki-laki,14,Belum Menikah,SD,Mahasiswa
+58,320101010058,Tandi,Laki-laki,51,Menikah,SMA,Karyawan Swasta
+59,320101010059,Hasan,Laki-laki,42,Belum Menikah,D3,Teknisi
+60,320101010060,Nurdin,Laki-laki,45,Menikah,SMA,Pedagang
+61,320101010061,Nina,Perempuan,52,Menikah,S1,Ibu Rumah Tangga
+62,320101010062,Maria,Perempuan,39,Menikah,SMA,Ibu Rumah Tangga
